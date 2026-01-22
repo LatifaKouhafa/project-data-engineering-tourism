@@ -68,4 +68,7 @@ B1 : Design and develop a data storage architecture
 B2: Design, develop, and deploy a big data processing solution
 
 ---
-<img width="979" height="830" alt="image" src="https://github.com/user-attachments/assets/91dcce01-64e2-49e0-813c-637a442c3ea4" />
+
+<img width="1508" height="982" alt="Capture d&#39;écran 2026-01-23 003431" src="https://github.com/user-attachments/assets/e6d68b07-9cdb-4043-8321-14401316427e" />
+
+
