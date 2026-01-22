@@ -58,9 +58,7 @@ Data transformations are executed using Apache Spark on Azure Databricks, follow
 - Silver: cleaned and standardized data
 - Gold: curated and analytics-ready datasets
 
-<img width="824" height="297" alt="ETL-pipeline" src="https://github.com/user-attachments/assets/225ea72e-5b5a-40eb-9c3f-5929b62a6e22" />
-
-
+<img width="1648" height="495" alt="ETL-pipeline" src="https://github.com/user-attachments/assets/fa1bc65e-a400-4d90-82dd-a4ae89e44073" />
 ---
 
 ## Scheduling
