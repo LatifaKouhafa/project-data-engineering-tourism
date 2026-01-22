@@ -1,0 +1,201 @@
+id;year;hotel;price;score;avg_review;reviews_count
+300;2023;Hotel Des Deux Continents; 260;8.1;Tres bien;1
+301;2023;Hotel Mirabeau Eiffel; 138;7.1;Bien ;1
+302;2023;Garden-Elysee; 269;8.6;Superbe;1
+303;2023;Novotel Paris Centre Tour Eiffel; 192;7.4;Bien ;6
+304;2023;STAY IN THE HEART OF PARIS; 185;"10
+";Exceptionnel;3
+305;2023;Hotel de la Motte Picquet; 184;8.6;Superbe;909
+306;2023;Hotel Charing Cross; 154;8;Tres bien;2
+307;2023;Hotel Korner Montparnasse; 145;7.9;Bien ;1
+308;2023;Hotel Lutetia; 1595;9.2;Fabuleux ;243
+309;2023;HOTEL ALISON; 225;8.4;Tres bien;877
+310;2023;Chatillon Paris Montparnasse; 145;8.1;Tres bien;1
+311;2023;Hotel Panache; 173;8.5;Tres bien;560
+312;2023;Hotel d'Angleterre; 286;8.5;Tres bien;953
+313;2023;Hotel Sanso by HappyCulture; 150;8.6;Superbe;3
+314;2023;Handsome Hotel; 177;8.3;Tres bien;1
+315;2023;Paris Square; 290;8.9;Superbe;397
+316;2023;Hotel Bel Oranger Gare de Lyon; 170;7.9;Bien ;1
+317;2023;Tinah Paris, Aboukir; 225;8.3;Tres bien;385
+318;2023;NH Paris Gare de l'Est; 158;7.7;Bien ;6
+319;2023;Welcome Hotel; 243;8.3;Tres bien;1
+320;2023;Regence Etoile; 336;8.5;Tres bien;1
+321;2023;Generator Paris; 129;7.3;Bien ;11
+322;2023;Modern Hotel; 105;6.6;Note;2
+323;2023;Hotel Elysee Secret; 186;8.7;Superbe;86
+324;2023;Hotel Opera d'Antin; 150;7.8;Bien ;1
+325;2023;Hotel d'Orsay Esprit de France; 263;8.9;Superbe;913
+326;2023;Superbe studio Vue sur la Tour Eiffel; 155;N/A;N/A;N/A
+327;2023;New Hotel Lafayette; 165;7.9;Bien ;1
+328;2023;Source Hotel; 120;8.2;Tres bien;1
+329;2023;Moxy Paris Bastille; 153;8;Tres bien;1
+330;2023;Maison Urbaine; 140;8.7;Superbe;90
+331;2023;Hotel Miramar; 175;8;Tres bien;2
+332;2023;Grand Hotel Dore; 210;8.2;Tres bien;1
+333;2023;Hotel Exquis; 146;8.5;Tres bien;1
+334;2023;Academie Hotel Saint Germain; 263;8.7;Superbe;1
+335;2023;Hotel Terre Neuve; 144;8.3;Tres bien;452
+336;2023;Hotel De La Poste; 71;6;Note;3
+337;2023;Hotel 29 Lepic; 198;8.1;Tres bien;2
+338;2023;Hotel Dame des Arts; 405;8.7;Superbe;502
+339;2023;Odeon Hotel by Malone; 194;8.4;Tres bien;1
+340;2023;La Maison Montparnasse; 138;8.5;Tres bien;223
+341;2023;Le Grey Hotel; 340;8.6;Superbe;1
+342;2023;Hotel Vacances Bleues Villa Modigliani; 153;7.9;Bien ;3
+343;2023;Le 7 Eiffel Hotel by Malone; 192;8.2;Tres bien;1
+344;2023;Little Hotel; 137;8;Tres bien;1
+345;2023;Best Western Plus La Demeure; 156;8.2;Tres bien;1
+346;2023;Hotel Le Fabe; 147;8.5;Tres bien;2
+347;2023;Hotel La Canopee; 195;8.9;Superbe;1
+348;2023;Hotel Touraine Opera; 194;8.9;Superbe;2
+349;2023;Hotel Trianon Rive Gauche; 361;8;Tres bien;4
+350;2023;Hotel Mogador; 155;8.4;Tres bien;1
+351;2023;Hotel Splendid; 144;7.9;Bien ;1
+352;2023;Arian Hotel; 132;7.6;Bien ;1
+353;2023;Maison Cassandre; 177;9.2;Fabuleux ;63
+354;2023;Juliana Hotel Paris; 539;8.6;Superbe;576
+355;2023;La Dependance; 328;8.9;Superbe;295
+356;2023;Hotel Restaurant Au Boeuf Couronne; 150;8.3;Tres bien;2
+357;2023;ibis styles Paris Montmartre Batignolles; 153;7.9;Bien ;1
+358;2023;Casao; 229;8.3;Tres bien;303
+359;2023;Hotel Mansart Esprit de France; 291;8.4;Tres bien;747
+360;2023;Mercure Paris Place d'Italie; 161;7.8;Bien ;762
+361;2023;My Home For You Luxury B&B; 298;9.1;Fabuleux ;592
+362;2023;Hotel des 3 Colleges; 151;8.1;Tres bien;1
+363;2023;Hotel Vinci Due & Spa; 275;8.7;Superbe;890
+364;2023;ibis Paris Avenue de la Republique; 119;7.9;Bien ;799
+365;2023;Hotel Le Richemont; 114;8;Tres bien;2
+366;2023;9Hotel Bastille-Lyon; 149;8;Tres bien;2
+367;2023;Citadines Bastille Marais Paris; 185;7.9;Bien ;3
+368;2023;Excelsior Opera; 155;8.5;Tres bien;621
+369;2023;Hotel de France Gare de Lyon Bastille; 154;8.6;Superbe;3
+370;2023;La Finca Hotel & Spa; 198;8.5;Tres bien;1
+371;2023;Citadines Opera Paris; 266;8.2;Tres bien;838
+372;2023;Hotel Saint Marcel; 150;8.2;Tres bien;2
+373;2023;Hotel Leonard De Vinci; 96;6.8;Note;2
+374;2023;Hotel Delavigne; 197;8.9;Superbe;2
+375;2023;ibis Paris La Villette Cite des Sciences 19eme; 151;7.4;Bien ;2
+376;2023;Citadines Place d'Italie Paris; 145;7.9;Bien ;3
+377;2023;Hotel Albe Bastille; 140;8.2;Tres bien;2
+378;2023;Home Latin; 196;7.4;Bien ;4
+379;2023;Hotel Elysa-Luxembourg; 209;8.5;Tres bien;2
+380;2023;Hotel Atlantis; 154;7.9;Bien ;1
+381;2023;Hotel Le Relais Saint-Germain; 291;8.8;Superbe;319
+382;2023;ibis Paris Gare De L Est 10eme; 138;7.4;Bien ;954
+383;2023;Hotel de Charonne; 127;7.1;Bien ;173
+384;2023;Citadines Republique Paris; 156;7.9;Bien ;2
+385;2023;Hotel De Seine; 360;8.7;Superbe;934
+386;2023;La Villa Royale; 161;7.5;Bien ;1
+387;2023;Le Glam's Hotel; 113;8.7;Superbe;78
+388;2023;Arioso; 182;8.7;Superbe;1
+389;2023;Novotel Paris 20 Belleville; 168;8.3;Tres bien;3
+390;2023;Bastille Hostel; 64;6;Note;1
+391;2023;Citadines Montmartre Paris; 168;8;Tres bien;2
+392;2023;Idol Hotel; 174;8.7;Superbe;657
+393;2023;Hotel Verlaine; 183;8.9;Superbe;528
+394;2023;Best Western Plus Hotel Sydney Opera; 258;9;Fabuleux ;1
+395;2023;Triangle d'Or; 470;9.1;Fabuleux ;7
+396;2023;VLH Montparnasse Eiffel; 155;8.3;Tres bien;407
+397;2023;Villa Montparnasse; 148;7.7;Bien ;1
+398;2023;Ibis Styles Hotel Paris Gare de Lyon Bastille; 143;8.2;Tres bien;1
+399;2023;Saint Georges Lafayette; 125;7.8;Bien ;2
+400;2023;Hotel Le Bellechasse Saint-Germain; 296;8.6;Superbe;1
+401;2023;Hotel Champerret Elysees; 188;8.4;Tres bien;1
+402;2023;Maison Armance - Esprit de France; 341;9;Fabuleux ;470
+403;2023;Hotel Saint-Louis en L'Isle - Notre-Dame; 316;9.1;Fabuleux ;1
+404;2023;Vice Versa; 165;7.8;Bien ;709
+405;2023;ibis Paris Canal Saint Martin; 144;7.9;Bien ;1
+406;2023;Hotel Mercure Paris Centre Gare Montparnasse; 216;8;Tres bien;1
+407;2023;Hotel Brighton - Esprit de France; 384;8.4;Tres bien;1
+408;2023;Hotel Chamar; 394;9.9;Exceptionnel;10
+409;2023;Helussi Hotel; 167;8.8;Superbe;1
+410;2023;Hotel A La Villa des Artistes; 193;8.6;Superbe;1
+411;2023;Hotel Les Dames du Pantheon; 244;8.8;Superbe;961
+412;2023;Holiday Inn Paris-Auteuil, an IHG Hotel; 131;8.5;Tres bien;1
+413;2023;Austin's Arts Et Metiers Hotel; 283;8.2;Tres bien;2
+414;2023;Hotel Palm - Astotel; 155;8.9;Superbe;1
+415;2023;Hotel Marais Bastille; 190;8.4;Tres bien;941
+416;2023;Les Artistes; 223;9;Fabuleux ;551
+417;2023;Hotel Villa Nicolo - Tour Eiffel; 239;8.9;Superbe;1
+418;2023;Courtyard by Marriott Paris Gare de Lyon; 287;8.5;Tres bien;1
+419;2023;Suites & Hotel Helzear Etoile; 258;8.2;Tres bien;1
+420;2023;Le Petit Beaumarchais Hotel & Spa; 345;8.8;Superbe;1
+421;2023;Hotel Toujours & Spa; 222;8.2;Tres bien;1
+422;2023;Hotel Paris Louis Blanc; 163;8.4;Tres bien;610
+423;2023;Hotel Saint-Louis Marais; 274;8.8;Superbe;1
+424;2023;Hotel des Arts - Cite Bergere; 151;8.3;Tres bien;2
+425;2023;Hotel des Pyrenees - Entre Bastille et Nation; 156;7.1;Bien ;550
+426;2023;Pullman Paris Montparnasse; 297;8.4;Tres bien;2
+427;2023;Hotel Le Presbytere; 430;9.2;Fabuleux ;1
+428;2023;Hotel Parc Saint-Severin - Esprit de France; 307;9;Fabuleux ;981
+429;2023;Hotel La Tamise - Esprit de France; 351;8.9;Superbe;366
+430;2023;Hotel Therese; 219;8.4;Tres bien;869
+431;2023;Hotel de la Place du Louvre - Esprit de France; 296;8;Tres bien;309
+432;2023;Hotel de Flore - Montmartre; 186;8.6;Superbe;3
+433;2023;Hotel Josephine by Happyculture; 144;8;Tres bien;1
+434;2023;Hotel Royal Opera; 213;7.4;Bien ;1
+435;2023;Maison Souquet, Hotel & Spa; 584;9.2;Fabuleux ;502
+436;2023;LE TEMPS D'UNE PAUSE; 115;7.3;Bien ;78
+437;2023;Hotel des Grands Hommes; 238;8.9;Superbe;390
+438;2023;Hotel Elysees Opera; 360;8.4;Tres bien;975
+439;2023;Cour des Vosges - Evok Collection; 573;8.7;Superbe;212
+440;2023;Regyn's Montmartre; 132;7.8;Bien ;2
+441;2023;Hotel Capfun Le Saint Germain, Paris; 229;8.2;Tres bien;861
+442;2023;Hotel 34B - Astotel; 176;8.8;Superbe;2
+443;2023;Hotel Lodge In Paris 13; 105;6.8;Note;3
+444;2023;Hotel Britannique; 197;8.9;Superbe;1
+445;2023;Hotel Pastel Paris; 238;8.3;Tres bien;710
+446;2023;Hotel Poussin; 189;7.1;Bien ;406
+447;2023;Hotel Bellevue Montmartre; 172;7.4;Bien ;233
+448;2023;Abaca Messidor by Happyculture; 142;8.1;Tres bien;3
+449;2023;Hotel de la Tour; 149;8.2;Tres bien;587
+450;2023;HOTEL DE PARIS MONTPARNASSE; 156;7.9;Bien ;2
+451;2023;Virgina; 114;8.3;Tres bien;3
+452;2023;Hotel Montparnasse Saint Germain; 161;7.9;Bien ;1
+453;2023;Saphir Grenelle; 120;7.1;Bien ;1
+454;2023;Hotel Opera Maintenon; 271;8.3;Tres bien;1
+455;2023;District Nation; 134;8.7;Superbe;830
+456;2023;Hotel Elysees Flaubert; 172;8.4;Tres bien;1
+457;2023;Hotel Le Royal Monceau Raffles Paris; 1280;8.9;Superbe;99
+458;2023;Elysees Union; 204;8.3;Tres bien;4
+459;2023;Caulaincourt Montmartre by Hiphophostels; 135;8.1;Tres bien;3
+460;2023;Hotel Parister & Spa; 278;8.3;Tres bien;844
+461;2023;Hotel de Sevigne; 187;8.4;Tres bien;1
+462;2023;La Villa Haussmann; 330;9;Fabuleux ;1
+463;2023;Hotel Saint Pierre; 160;7.4;Bien ;3
+464;2023;1K Paris; 161;7.5;Bien ;1
+465;2023;Novotel Paris Gare De Lyon; 236;8.3;Tres bien;1
+466;2023;Relais Bergson; 158;7.6;Bien ;1
+467;2023;Verlain; 144;7.8;Bien ;1
+468;2023;Le Pradey; 231;8.5;Tres bien;1
+469;2023;Hotel Litteraire Marcel Ayme; 157;8.7;Superbe;1
+470;2023;Hotel Tourisme Avenue; 246;8.9;Superbe;1
+471;2023;Palym; 168;8.2;Tres bien;4
+472;2023;Le Trente; 125;7.9;Bien ;1
+473;2023;Chouette Hotel; 177;8.4;Tres bien;1
+474;2023;Amazing 2 Rooms Flat near Bastille - An Ecoloflat; 452;8.4;Tres bien;97
+475;2023;Hotel Des Marronniers; 356;8.2;Tres bien;873
+476;2023;Familia Hotel; 151;8.2;Tres bien;3
+477;2023;Hotel des Vosges; 103;8;Tres bien;1
+478;2023;Libertel Gare Du Nord Suede; 149;8;Tres bien;1
+479;2023;Odalys City Paris Montmartre; 167;8.7;Superbe;2
+480;2023;Novotel Paris Vaugirard Montparnasse; 220;8;Tres bien;2
+481;2023;Hotel Joe M; 171;8.4;Tres bien;1
+482;2023;Hotel Duquesne Eiffel; 200;8.3;Tres bien;1
+483;2023;La Maison Gobert Paris Hotel Particulier; 275;9.2;Fabuleux ;550
+484;2023;Hotel Saint Roch; 215;7.5;Bien ;1
+485;2023;Fred'Hotel; 140;8.2;Tres bien;1
+486;2023;Beauquartier - Butte aux cailles; 245;9;Fabuleux ;175
+487;2023;Hotel Bastille Speria; 190;8.6;Superbe;1
+488;2023;Too Hotel Paris - MGallery; 253;8.9;Superbe;1
+489;2023;ibis Paris Gare De L'Est TGV; 152;7.4;Bien ;2
+490;2023;Hotel Magellan; 209;8.7;Superbe;1
+491;2023;Hotel Monge; 330;9.3;Fabuleux ;1
+492;2023;Hotel Augustin - Astotel; 176;8.8;Superbe;1
+493;2023;Motel One Paris-Porte Doree; 229;8.7;Superbe;7
+494;2023;Hotel International Paris; 164;8.3;Tres bien;776
+495;2023;My Home In Paris; 261;9.1;Fabuleux ;904
+496;2023;Au Pacific Hotel; 139;8.1;Tres bien;4
+497;2023;Amiral-Fondary; 139;8.2;Tres bien;1
+498;2023;Le Temple De Jeanne; 204;8.8;Superbe;2
