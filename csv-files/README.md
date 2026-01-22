@@ -49,7 +49,6 @@ ingested into the Azure-based data platform (Data Lake, Databricks, Synapse).
 ---
 
 ## ⚠️ Important Note
-These CSV files are **not used directly in production analytics**.
 
 In the final architecture:
 - Data is stored in **Azure Data Lake Storage Gen2**
