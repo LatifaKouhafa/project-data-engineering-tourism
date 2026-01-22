@@ -62,19 +62,8 @@ The platform is implemented using **Microsoft Azure** services:
 
 ## 🧩 RNCP Competencies
 This project validates **RNCP B1 & B2** competencies:
-- Data storage architecture (relational, data lake)
-- Distributed data processing (Spark)
-- ETL orchestration and automation
-- Analytical modeling and performance optimization
 
-Detailed mapping is available in `docs/rncp-mapping.md`.
-
----
-
-## 🚀 Future Improvements
-- Secure access using Azure Key Vault & App Registration
-- Cluster auto-scaling for production workloads
-- CI/CD with Infrastructure as Code
-- Data quality checks and validation rules
+RNCP36739BC01: Design and develop a data storage architecture
+RNCP36739BC02: Design, develop, and deploy a big data processing solution
 
 ---
