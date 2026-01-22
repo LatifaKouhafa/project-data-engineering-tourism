@@ -16,7 +16,7 @@ This project demonstrates the design and implementation of a **cloud-based data 
 ---
 
 ## 🧠 Data Sources
-- **Booking.com**
+- **Booking**
   - Web scraping using Playwright
   - Hotel prices, ratings, reviews and metadata
 - **Airbnb**
