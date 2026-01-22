@@ -63,7 +63,8 @@ The platform is implemented using **Microsoft Azure** services:
 ## 🧩 RNCP Competencies
 This project validates **RNCP B1 & B2** competencies:
 
-RNCP36739BC01: Design and develop a data storage architecture
-RNCP36739BC02: Design, develop, and deploy a big data processing solution
+B1 : Design and develop a data storage architecture
+
+B2: Design, develop, and deploy a big data processing solution
 
 ---
