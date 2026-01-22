@@ -16,24 +16,22 @@ This project demonstrates the design and implementation of a **cloud-based data 
 ---
 
 ## 🧠 Data Sources
-- **:contentReference[oaicite:0]{index=0}**
+- **Booking.com**
   - Web scraping using Playwright
   - Hotel prices, ratings, reviews and metadata
-- **:contentReference[oaicite:1]{index=1}**
+- **Airbnb**
   - CSV datasets with accommodation details
-
-All data focuses on accommodations located in **Paris**.
-
+    
 ---
 
 ## ☁️ Cloud & Big Data Architecture
-The platform is implemented using **:contentReference[oaicite:2]{index=2}** services:
+The platform is implemented using **Microsoft Azure** services:
 
 - **Azure Data Factory** – Data ingestion & orchestration  
 - **Azure Data Lake Storage Gen2** – Scalable storage (Bronze / Silver / Gold)  
 - **Azure Databricks (Apache Spark)** – Data transformation & enrichment  
 - **Azure Synapse Analytics** – Analytical data warehouse & SQL views  
-- **:contentReference[oaicite:3]{index=3}** – Interactive dashboards  
+- **Power BI** – Interactive dashboards  
 
 ---
 
