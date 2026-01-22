@@ -1,7 +1,82 @@
 # Tourism Data Platform – Azure
 
-End-to-end Data Engineering platform designed to analyze tourism trends in Paris
-using Booking.com and Airbnb data.
+End-to-end **Data Engineering project** designed to analyze tourism trends in Paris using accommodation data from Booking.com and Airbnb.
 
-Stack: Azure Data Factory, Azure Data Lake Gen2, Azure Databricks (Spark),
-Azure Synapse Analytics, Power BI.
+This project demonstrates the design and implementation of a **cloud-based data platform** covering data collection, ingestion, transformation, analytics and visualization.
+
+---
+
+## 🎯 Project Objectives
+- Collect and consolidate heterogeneous tourism data
+- Build a scalable **Big Data architecture on the cloud**
+- Process data using a **Medallion architecture (Bronze / Silver / Gold)**
+- Enable analytical queries and business insights
+- Visualize key tourism indicators for decision-making
+
+---
+
+## 🧠 Data Sources
+- **:contentReference[oaicite:0]{index=0}**
+  - Web scraping using Playwright
+  - Hotel prices, ratings, reviews and metadata
+- **:contentReference[oaicite:1]{index=1}**
+  - CSV datasets with accommodation details
+
+All data focuses on accommodations located in **Paris**.
+
+---
+
+## ☁️ Cloud & Big Data Architecture
+The platform is implemented using **:contentReference[oaicite:2]{index=2}** services:
+
+- **Azure Data Factory** – Data ingestion & orchestration  
+- **Azure Data Lake Storage Gen2** – Scalable storage (Bronze / Silver / Gold)  
+- **Azure Databricks (Apache Spark)** – Data transformation & enrichment  
+- **Azure Synapse Analytics** – Analytical data warehouse & SQL views  
+- **:contentReference[oaicite:3]{index=3}** – Interactive dashboards  
+
+---
+
+## 🔄 Data Pipeline Overview
+1. **Data Collection**
+   - Web scraping for Booking.com
+   - CSV ingestion for Airbnb
+2. **Ingestion**
+   - Automated pipelines with Azure Data Factory
+   - Hybrid sources (Blob Storage & SQL Server on-premise)
+3. **Transformation**
+   - Spark processing on Databricks
+   - Medallion architecture with Delta Lake
+4. **Analytics**
+   - SQL views and queries in Azure Synapse
+5. **Reporting**
+   - Interactive dashboards in Power BI
+
+---
+
+## 📊 Key Insights
+- Price distribution across Paris neighborhoods
+- Comparison between hotels and Airbnb listings
+- Relationship between ratings and pricing
+- Identification of highly rated and high-demand areas
+
+---
+
+## 🧩 RNCP Competencies
+This project validates **RNCP B1 & B2** competencies:
+- Data storage architecture (relational, data lake)
+- Distributed data processing (Spark)
+- ETL orchestration and automation
+- Analytical modeling and performance optimization
+
+Detailed mapping is available in `docs/rncp-mapping.md`.
+
+---
+
+## 🚀 Future Improvements
+- Secure access using Azure Key Vault & App Registration
+- Cluster auto-scaling for production workloads
+- CI/CD with Infrastructure as Code
+- Data quality checks and validation rules
+
+---
